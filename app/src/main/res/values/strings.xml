@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP3NejiMedAmine</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="type">
+        <item>Nom</item>
+        <item>Adjective</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+</resources>
