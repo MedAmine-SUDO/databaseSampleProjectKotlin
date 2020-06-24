@@ -1,1 +1,1 @@
-# databaseSampleProjectKotlin
+# Database Sample Kotlin Project
